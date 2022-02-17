@@ -1,8 +1,8 @@
 # [MY READS 'APP'](https://khalednassar500.github.io/my-reads)
 An application that displays my books in three categories.<br />
- *Currently Reading
+ - Currently Reading
  - Want to Read
- -Read
+ - Read
 and give the user ability to search for different books and put them in any one of three categories.<br />
 <br />
 Start the project<br />
