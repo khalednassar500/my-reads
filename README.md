@@ -2,7 +2,7 @@
 An application that displays my books in three categories.<br />
  - Currently Reading
  - Want to Read
- - Read
+ - Read<br />
 and give the user ability to search for different books and put them in any one of three categories.<br />
 <br />
 Start the project<br />
