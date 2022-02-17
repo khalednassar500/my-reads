@@ -12,7 +12,6 @@ run __npm start__<br />
 
 Some basic Git commands are:
 ```
-git status
+git status```
 git add
 git commit
-```
