@@ -1,4 +1,4 @@
-# (https://khalednassar500.github.io/my-reads)[MY READS 'APP']
+# [MY READS 'APP'](https://khalednassar500.github.io/my-reads)
 An application that displays my books in three categories.<br />
 __.Currently Reading<br />
 __.Want to Read<br />
