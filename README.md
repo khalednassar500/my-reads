@@ -9,5 +9,5 @@ and give the user ability to search for different books and put them in any one 
 <br />
 Start the project<br />
 start a terminal (no need to cd anywhere)<br />
-run npm install<br />
-run npm start<br />
+run ```npm install```<br />
+run ```npm start```<br />
