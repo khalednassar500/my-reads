@@ -7,9 +7,5 @@ and give the user ability to search for different books and put them in any one 
 <br />
 Start the project<br />
 start a terminal (no need to cd anywhere)<br />
-run __npm install__<br />
-run __npm start__<br />
-
-Some basic Git commands are:
-```git status```
-
+run __```npm install```__<br />
+run __```npm start```__<br />
